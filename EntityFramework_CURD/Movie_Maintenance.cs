@@ -16,6 +16,7 @@ namespace EntityFramework_CURD
         DafestyVideoEntities ctx = new DafestyVideoEntities();
         public frm_Movie_Maintenance()
         {
+            //git commit testing
             InitializeComponent();
             disable();
         }
