@@ -21,6 +21,8 @@ namespace EntityFramework_CURD
         private void btn_retrieve_Click(object sender, EventArgs e)
         {
             //TEsting Git Push by Han
+            //***Testing with VS2017 again
+
             //4a. Retrieve the movie with code 5 (Nemesis)
             dtaGV.DataSource = context.Movies.Where(x => x.VideoCode == 11).ToList();
             toolStripLabel1.Text = "Retrieved!";
