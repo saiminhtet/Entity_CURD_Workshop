@@ -1,0 +1,15 @@
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework_CURD.exe.config
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework_CURD.exe
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework_CURD.pdb
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework.dll
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework.SqlServer.dll
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework.xml
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\bin\Debug\EntityFramework.SqlServer.xml
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.csprojResolveAssemblyReference.cache
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.frm_movie_lst.resources
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.frm_Movie_Maintenance.resources
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.Properties.Resources.resources
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.csproj.GenerateResource.Cache
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.csproj.CoreCompileInputs.cache
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.exe
+D:\ISS NUS\Semister 2 Lectures\Lecture Slides\ESNET\Workshops\EntityFramework_CURD\EntityFramework_CURD\obj\Debug\EntityFramework_CURD.pdb
